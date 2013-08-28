@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7">
+  <NonVisualComponents>
+    <Container class="javax.swing.JPanel" name="mainPanel">
+      <Properties>
+        <Property name="background" type="java.awt.Color" resourceKey="mainPanel.background"/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+            <MatteColorBorder/>
+          </Border>
+        </Property>
+        <Property name="name" type="java.lang.String" value="mainPanel" noResource="true"/>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="402" max="-2" attributes="0"/>
+                          <Component id="l1" min="-2" pref="117" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="b5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="b6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="b4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="inverse" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="b3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="b2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="b1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="l2" alignment="0" min="-2" pref="148" max="-2" attributes="0"/>
+                                      <Component id="size" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="p1" min="-2" max="-2" attributes="1"/>
+                                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                          <Component id="sign" min="-2" pref="21" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                                          <Component id="p2" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <Component id="p3" min="-2" max="-2" attributes="1"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="p5" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="p4" min="-2" pref="227" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="aaa" min="-2" pref="183" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="73" max="-2" attributes="0"/>
+                                  <Component id="aa" min="-2" pref="513" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="38" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                          <Component id="aaa" min="-2" pref="24" max="-2" attributes="1"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="1">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="l1" min="-2" pref="28" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                          <Component id="aa" min="-2" pref="34" max="-2" attributes="1"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="0" attributes="1">
+                                  <Component id="l2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                                  <Component id="b1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="b2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="b3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="130" max="32767" attributes="0"/>
+                                  <Component id="size" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="p1" alignment="1" max="32767" attributes="1"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="sign" min="-2" pref="24" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="141" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="p2" min="-2" max="-2" attributes="1"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                          <Component id="inverse" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                          <Component id="b4" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="b6" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="b5" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="p5" alignment="0" min="-2" max="-2" attributes="1"/>
+                              <Component id="p4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="p3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="p1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" resourceKey="p1.background"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder/>
+              </Border>
+            </Property>
+            <Property name="name" type="java.lang.String" value="p1" noResource="true"/>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1a1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1a2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1a3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Component id="p1sign" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="p1b11" min="-2" pref="30" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="p1b22" min="-2" pref="30" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="p1b33" min="-2" pref="30" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="p1a11" min="-2" pref="30" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="p1a22" min="-2" pref="30" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="p1a33" min="-2" pref="30" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="p1l2" alignment="1" min="-2" pref="98" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="p1c11" min="-2" pref="30" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="p1c22" min="-2" pref="30" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="p1c33" min="-2" pref="30" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                              <Component id="p1l1" min="-2" pref="98" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="90" max="-2" attributes="0"/>
+                              <Component id="p1l" min="-2" pref="132" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                              <Component id="p1done" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="p1reset" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="p1back" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="23" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                              <Component id="p1l" min="-2" pref="26" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1l1" alignment="2" min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Component id="p1l2" alignment="2" min="-2" pref="33" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1a1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1a2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1a3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1a11" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1a22" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1a33" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1b1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b11" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b22" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1b33" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1c1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c11" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c22" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p1c33" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p1done" alignment="2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="p1reset" alignment="2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="p1back" alignment="2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="187" pref="187" max="187" attributes="0"/>
+                              <Component id="p1sign" min="-2" pref="35" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="17" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="p1l1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1l1.text"/>
+                <Property name="name" type="java.lang.String" value="p1l1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1a1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1a1.text"/>
+                <Property name="name" type="java.lang.String" value="p1a1" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1a2"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1b1">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1b1" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1b2"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1c1">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1c1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1a2">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1a2" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1a3"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1b2">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1b2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1c2">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1c2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1c3">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1c3" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1a11"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1b3">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1b3" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1c1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1a3">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1a3" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1b1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1a11">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1a11" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1a22"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1b11">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1b11" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1b22"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1c11">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1c11" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1c22"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1c22">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1c22" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1c33"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1b22">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1b22" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1b33"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1a22">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1a22" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1a33"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1a33">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1a33" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1b11"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1b33">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1b33" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1c11"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p1c33">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p1c33" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p1l2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1l2.text"/>
+                <Property name="name" type="java.lang.String" value="p1l2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="p1done">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1done.text"/>
+                <Property name="name" type="java.lang.String" value="p1done" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1reset"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p1doneMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="p1back">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1back.text"/>
+                <Property name="name" type="java.lang.String" value="p1back" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1a1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p1backMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p1sign">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1sign.text"/>
+                <Property name="name" type="java.lang.String" value="p1sign" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="p1reset">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1reset.text"/>
+                <Property name="name" type="java.lang.String" value="p1reset" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p1back"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p1resetMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p1l">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p1l.text"/>
+                <Property name="name" type="java.lang.String" value="p1l" noResource="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="l1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" resourceKey="l1.font"/>
+            <Property name="text" type="java.lang.String" resourceKey="l1.text"/>
+            <Property name="name" type="java.lang.String" value="l1" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="l2">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="l2.text"/>
+            <Property name="name" type="java.lang.String" value="l2" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="b1">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="b1.text"/>
+            <Property name="name" type="java.lang.String" value="b1" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="b1MouseClicked"/>
+            <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="b1MouseMoved"/>
+            <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="b1KeyPressed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="b3">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="b3.text"/>
+            <Property name="name" type="java.lang.String" value="b3" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="b3MouseClicked"/>
+            <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="b3MouseMoved"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="b2">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="b2.text"/>
+            <Property name="name" type="java.lang.String" value="b2" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="b2MouseClicked"/>
+            <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="b2MouseMoved"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="b4">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="b4.text"/>
+            <Property name="name" type="java.lang.String" value="b4" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="b4MouseClicked"/>
+            <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="b4MouseMoved"/>
+          </Events>
+        </Component>
+        <Container class="javax.swing.JPanel" name="p2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" resourceKey="p2.background"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder bevelType="1"/>
+              </Border>
+            </Property>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="name" type="java.lang.String" value="p2" noResource="true"/>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="p2a1" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                                          <Component id="p2b1" min="-2" pref="44" max="-2" attributes="0"/>
+                                          <Component id="p2c1" min="-2" pref="44" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="p2a2" min="-2" pref="44" max="-2" attributes="0"/>
+                                          <Component id="p2b2" min="-2" pref="44" max="-2" attributes="0"/>
+                                          <Component id="p2c2" min="-2" pref="44" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="p2l1" min="-2" pref="59" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="p2b3" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="p2a3" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="p2c3" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="p2back" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace pref="62" max="32767" attributes="0"/>
+                              <Component id="p2exit" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="p2l1" min="-2" pref="37" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p2a1" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p2a2" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p2a3" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p2b1" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p2b2" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p2b3" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p2c1" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p2c2" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p2c3" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p2back" alignment="2" min="-2" max="-2" attributes="0"/>
+                          <Component id="p2exit" alignment="2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="26" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="p2l1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2l1.text"/>
+                <Property name="name" type="java.lang.String" value="p2l1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="p2back">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2back.text"/>
+                <Property name="name" type="java.lang.String" value="p2back" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p2exit"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p2backMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="p2exit">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2exit.text"/>
+                <Property name="name" type="java.lang.String" value="p2exit" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p2back"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p2exitMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2a1">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="p2a1.background"/>
+                <Property name="text" type="java.lang.String" resourceKey="p2a1.text"/>
+                <Property name="name" type="java.lang.String" value="p2a1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2b1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2b1.text"/>
+                <Property name="name" type="java.lang.String" value="p2b1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2c1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2c1.text"/>
+                <Property name="name" type="java.lang.String" value="p2c1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2a2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2a2.text"/>
+                <Property name="name" type="java.lang.String" value="p2a2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2b2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2b2.text"/>
+                <Property name="name" type="java.lang.String" value="p2b2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2c2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2c2.text"/>
+                <Property name="name" type="java.lang.String" value="p2c2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2c3">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2c3.text"/>
+                <Property name="name" type="java.lang.String" value="p2c3" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2b3">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2b3.text"/>
+                <Property name="name" type="java.lang.String" value="p2b3" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p2a3">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p2a3.text"/>
+                <Property name="name" type="java.lang.String" value="p2a3" noResource="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="p3">
+          <Properties>
+            <Property name="background" type="java.awt.Color" resourceKey="p3.background"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder/>
+              </Border>
+            </Property>
+            <Property name="name" type="java.lang.String" value="p3" noResource="true"/>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p3a1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3b1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3c1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p3a2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3b2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3c2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="31" max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p3a3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3b3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3c3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                                      <Component id="p3back" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="p3reset" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                                              <Component id="p3done" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                              <Component id="p3l1" min="-2" pref="114" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="33" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                              <Component id="p3l1" min="-2" pref="34" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p3a1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3a2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3a3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="2" attributes="0">
+                                          <Component id="p3b1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                          <Component id="p3b2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                          <Component id="p3b3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                                      <Component id="p3reset" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p3c1" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3c2" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="p3c3" alignment="2" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="98" pref="98" max="98" attributes="0"/>
+                              <Component id="p3done" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="216" pref="216" max="216" attributes="0"/>
+                              <Component id="p3back" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JTextField" name="p3a1">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3a1" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3a2"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3b1">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3b1" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3b2"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3c1">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3c1" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3c2"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3a2">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3a2" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3a3"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3b2">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3b2" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3b3"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3c2">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3c2" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3c3"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3c3">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3c3" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3done"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3b3">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3b3" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3c1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="p3a3">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="p3a3" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3b1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="p3done">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p3done.text"/>
+                <Property name="name" type="java.lang.String" value="p3done" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3reset"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p3doneMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="p3back">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p3back.text"/>
+                <Property name="name" type="java.lang.String" value="p3back" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3a1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p3backMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="p3reset">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p3reset.text"/>
+                <Property name="name" type="java.lang.String" value="p3reset" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p3back"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p3resetMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p3l1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p3l1.text"/>
+                <Property name="name" type="java.lang.String" value="p3l1" noResource="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="b5">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="b5.text"/>
+            <Property name="name" type="java.lang.String" value="b5" noResource="true"/>
+            <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="b1"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="b5MouseClicked"/>
+            <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="b5MouseMoved"/>
+            <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="b5FocusLost"/>
+          </Events>
+        </Component>
+        <Container class="javax.swing.JPanel" name="p4">
+          <Properties>
+            <Property name="background" type="java.awt.Color" resourceKey="p4.background"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder bevelType="1"/>
+              </Border>
+            </Property>
+            <Property name="name" type="java.lang.String" value="p4" noResource="true"/>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="p4l2" alignment="0" min="-2" max="-2" attributes="1"/>
+                          <Component id="p4l1" alignment="0" pref="194" max="32767" attributes="1"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="82" max="-2" attributes="0"/>
+                      <Component id="p4ans" min="-2" pref="71" max="-2" attributes="0"/>
+                      <EmptySpace pref="70" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="p4back" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="p4exit" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                      <Component id="p4l1" min="-2" pref="32" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="p4l2" min="-2" pref="33" max="-2" attributes="0"/>
+                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                      <Component id="p4ans" min="-2" pref="21" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p4back" alignment="2" min="-2" max="-2" attributes="0"/>
+                          <Component id="p4exit" alignment="2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="p4back">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p4back.text"/>
+                <Property name="name" type="java.lang.String" value="p4back" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p4exit"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p4backMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="p4exit">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p4exit.text"/>
+                <Property name="name" type="java.lang.String" value="p4exit" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p4back"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p4exitMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p4l1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p4l1.text"/>
+                <Property name="name" type="java.lang.String" value="p4l1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p4l2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p4l2.text"/>
+                <Property name="name" type="java.lang.String" value="p4l2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p4ans">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p4ans.text"/>
+                <Property name="name" type="java.lang.String" value="p4ans" noResource="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="b6">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="b6.text"/>
+            <Property name="name" type="java.lang.String" value="b6" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="b6MouseClicked"/>
+            <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="b6MouseMoved"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="aaa">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="aaa.text"/>
+            <Property name="name" type="java.lang.String" value="aaa" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="aa">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="aa.text"/>
+            <Property name="name" type="java.lang.String" value="aa" noResource="true"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JPanel" name="p5">
+          <Properties>
+            <Property name="background" type="java.awt.Color" resourceKey="p5.background"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder bevelType="1"/>
+              </Border>
+            </Property>
+            <Property name="name" type="java.lang.String" value="p5" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p5MouseClicked"/>
+          </Events>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="p5back" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="p5exit" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p5a1" alignment="2" pref="52" max="32767" attributes="1"/>
+                                  <Component id="p5b1" alignment="2" pref="52" max="32767" attributes="1"/>
+                                  <Component id="p5c1" alignment="2" pref="52" max="32767" attributes="1"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="p5a2" alignment="2" pref="59" max="32767" attributes="1"/>
+                                  <Component id="p5b2" alignment="2" pref="59" max="32767" attributes="1"/>
+                                  <Component id="p5c2" alignment="2" pref="59" max="32767" attributes="1"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="p5a3" min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="p5b3" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="p5c3" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Component id="p5l1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Component id="p5l1" min="-2" pref="37" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p5a1" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p5a2" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p5a3" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p5b1" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p5b2" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p5b3" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p5c1" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p5c2" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="p5c3" alignment="2" min="-2" pref="31" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="p5back" alignment="2" min="-2" max="-2" attributes="0"/>
+                          <Component id="p5exit" alignment="2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="22" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="p5l1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5l1.text"/>
+                <Property name="name" type="java.lang.String" value="p5l1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="p5back">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5back.text"/>
+                <Property name="name" type="java.lang.String" value="p5back" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p5exit"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p5backMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="p5exit">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5exit.text"/>
+                <Property name="name" type="java.lang.String" value="p5exit" noResource="true"/>
+                <Property name="nextFocusableComponent" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="p5back"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="p5exitMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5a1">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="p5a1.background"/>
+                <Property name="text" type="java.lang.String" resourceKey="p5a1.text"/>
+                <Property name="name" type="java.lang.String" value="p5a1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5b1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5b1.text"/>
+                <Property name="name" type="java.lang.String" value="p5b1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5c1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5c1.text"/>
+                <Property name="name" type="java.lang.String" value="p5c1" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5a2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5a2.text"/>
+                <Property name="name" type="java.lang.String" value="p5a2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5b2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5b2.text"/>
+                <Property name="name" type="java.lang.String" value="p5b2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5c2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5c2.text"/>
+                <Property name="name" type="java.lang.String" value="p5c2" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5c3">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5c3.text"/>
+                <Property name="name" type="java.lang.String" value="p5c3" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5b3">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5b3.text"/>
+                <Property name="name" type="java.lang.String" value="p5b3" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="p5a3">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="p5a3.text"/>
+                <Property name="name" type="java.lang.String" value="p5a3" noResource="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="sign">
+          <Properties>
+            <Property name="font" type="java.awt.Font" resourceKey="sign.font"/>
+            <Property name="text" type="java.lang.String" resourceKey="sign.text"/>
+            <Property name="name" type="java.lang.String" value="sign" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="size">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="4">
+                <StringItem index="0" value="MATRIX SIZE 3*3"/>
+                <StringItem index="1" value="MATRIX SIZE  2*3"/>
+                <StringItem index="2" value="MATRIX SIZE  3*2"/>
+                <StringItem index="3" value="MATRIX SIZE  2*2"/>
+              </StringArray>
+            </Property>
+            <Property name="name" type="java.lang.String" value="size" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="sizeMouseClicked"/>
+            <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="sizeMouseMoved"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="inverse">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="inverse.text"/>
+            <Property name="name" type="java.lang.String" value="inverse" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="inverseMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JMenuBar" name="menuBar">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="menuBar" noResource="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="fileMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="fileMenu.text"/>
+            <Property name="name" type="java.lang.String" value="fileMenu" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_VariableLocal" type="java.lang.Boolean" value="true"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="0"/>
+          </AuxValues>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="exitMenuItem">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="org.jdesktop.application.Application" id="quit" methodName="quit"/>
+                </Property>
+                <Property name="name" type="java.lang.String" value="exitMenuItem" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableLocal" type="java.lang.Boolean" value="true"/>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="0"/>
+              </AuxValues>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="helpMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" resourceKey="helpMenu.text"/>
+            <Property name="name" type="java.lang.String" value="helpMenu" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_VariableLocal" type="java.lang.Boolean" value="true"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="0"/>
+          </AuxValues>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="aboutMenuItem">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="priya1.Priya1View" id="showAboutBox" methodName="showAboutBox"/>
+                </Property>
+                <Property name="name" type="java.lang.String" value="aboutMenuItem" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableLocal" type="java.lang.Boolean" value="true"/>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="0"/>
+              </AuxValues>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="statusPanel">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="statusPanel" noResource="true"/>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="statusPanelSeparator" pref="809" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="statusMessageLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace pref="653" max="32767" attributes="0"/>
+                          <Component id="progressBar" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="186" max="-2" attributes="0"/>
+                  <Component id="statusAnimationLabel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="statusPanelSeparator" min="-2" pref="2" max="-2" attributes="0"/>
+                  <EmptySpace pref="9" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="statusMessageLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="statusAnimationLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="progressBar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JSeparator" name="statusPanelSeparator">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="statusPanelSeparator" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_VariableLocal" type="java.lang.Boolean" value="true"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="0"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="statusMessageLabel">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="statusMessageLabel" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="statusAnimationLabel">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="2"/>
+            <Property name="name" type="java.lang.String" value="statusAnimationLabel" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JProgressBar" name="progressBar">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="progressBar" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="component" type="javax.swing.JComponent" editor="org.netbeans.modules.form.ComponentChooserEditor">
+      <ComponentRef name="mainPanel"/>
+    </Property>
+    <Property name="menuBar" type="javax.swing.JMenuBar" editor="org.netbeans.modules.form.ComponentChooserEditor">
+      <ComponentRef name="menuBar"/>
+    </Property>
+    <Property name="statusBar" type="javax.swing.JComponent" editor="org.netbeans.modules.form.ComponentChooserEditor">
+      <ComponentRef name="statusPanel"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,56,0,0,3,-19"/>
+  </AuxValues>
+</Form>

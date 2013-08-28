@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="name" type="java.lang.String" value="Form" noResource="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="792" max="32767" attributes="0"/>
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="backspace" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="clear" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="input_field" alignment="0" pref="701" max="32767" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="cosec" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="asin" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="acosec" alignment="0" max="32767" attributes="1"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="asec" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="acos" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="sec" alignment="0" max="32767" attributes="1"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="open_brace3" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="sin" alignment="0" pref="67" max="32767" attributes="1"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="close_brace3" alignment="0" pref="56" max="32767" attributes="1"/>
+                                          <Component id="cos" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="acot" alignment="0" max="32767" attributes="1"/>
+                                      <Component id="atan" alignment="0" max="32767" attributes="1"/>
+                                      <Component id="cot" alignment="0" max="32767" attributes="1"/>
+                                      <Component id="tan" alignment="0" max="32767" attributes="1"/>
+                                  </Group>
+                                  <Component id="open_brace2" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Component id="exp" alignment="1" pref="59" max="32767" attributes="1"/>
+                                          <Component id="log" alignment="1" pref="59" max="32767" attributes="1"/>
+                                          <Component id="close_brace2" alignment="1" pref="59" max="32767" attributes="1"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="multiply" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="open_brace1" alignment="0" pref="57" max="32767" attributes="1"/>
+                                          <Component id="plus" alignment="0" max="32767" attributes="1"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="power" alignment="1" max="32767" attributes="1"/>
+                                          <Component id="divide" alignment="1" max="32767" attributes="1"/>
+                                          <Component id="minus" alignment="1" max="32767" attributes="1"/>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="close_brace1" min="-2" pref="54" max="-2" attributes="1"/>
+                                              <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Component id="space" alignment="0" min="-2" pref="200" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="zero" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="one" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="four" alignment="0" min="0" pref="0" max="32767" attributes="1"/>
+                                  <Component id="seven" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="const_pi" alignment="0" min="-2" pref="53" max="-2" attributes="1"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="dot" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="two" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="five" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="eight" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="var_x" alignment="0" min="-2" pref="58" max="-2" attributes="1"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="const_e" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="comma" alignment="0" min="0" pref="0" max="32767" attributes="1"/>
+                                  <Component id="three" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="six" alignment="0" max="32767" attributes="1"/>
+                                  <Component id="nine" alignment="0" pref="57" max="32767" attributes="1"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="358" max="32767" attributes="0"/>
+              <Component id="ok" min="-2" pref="72" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="362" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="413" max="32767" attributes="0"/>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="77" max="-2" attributes="0"/>
+              <Component id="input_field" min="-2" pref="41" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="clear" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="backspace" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="open_brace3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="const_e" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="var_x" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="const_pi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="close_brace3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="open_brace2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="close_brace2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="open_brace1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="close_brace1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="sin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cos" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tan" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="plus" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="seven" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="eight" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nine" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="minus" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="log" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cosec" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sec" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cot" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="divide" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="four" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="five" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="six" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="multiply" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="exp" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="asin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="acos" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="atan" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="power" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="one" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="two" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="three" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="acosec" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="asec" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="acot" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="zero" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="dot" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="comma" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="space" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="34" max="32767" attributes="0"/>
+              <Component id="ok" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="backspace">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="backspace.text"/>
+        <Property name="name" type="java.lang.String" value="backspace" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="backspaceMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="clear">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="clear.text"/>
+        <Property name="name" type="java.lang.String" value="clear" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="clearMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="input_field">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="input_field.font"/>
+        <Property name="name" type="java.lang.String" value="input_field" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="input_fieldMouseClicked"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="input_fieldKeyPressed"/>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="input_fieldKeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="cosec">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="cosec.text"/>
+        <Property name="name" type="java.lang.String" value="cosec" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cosecMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="asin">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="asin.text"/>
+        <Property name="name" type="java.lang.String" value="asin" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="asinMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="acosec">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="acosec.text"/>
+        <Property name="name" type="java.lang.String" value="acosec" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="acosecMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="asec">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="asec.text"/>
+        <Property name="name" type="java.lang.String" value="asec" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="asecMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="acos">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="acos.text"/>
+        <Property name="name" type="java.lang.String" value="acos" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="acosMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="sec">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="sec.text"/>
+        <Property name="name" type="java.lang.String" value="sec" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="secMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="open_brace3">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="open_brace3.text"/>
+        <Property name="name" type="java.lang.String" value="open_brace3" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="open_brace3MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="sin">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="sin.text"/>
+        <Property name="name" type="java.lang.String" value="sin" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="sinMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="close_brace3">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="close_brace3.text"/>
+        <Property name="name" type="java.lang.String" value="close_brace3" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="close_brace3MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="cos">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="cos.text"/>
+        <Property name="name" type="java.lang.String" value="cos" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cosMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="acot">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="acot.text"/>
+        <Property name="name" type="java.lang.String" value="acot" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="acotMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="atan">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="atan.text"/>
+        <Property name="name" type="java.lang.String" value="atan" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="atanMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="cot">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="cot.text"/>
+        <Property name="name" type="java.lang.String" value="cot" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cotMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="tan">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="tan.text"/>
+        <Property name="name" type="java.lang.String" value="tan" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tanMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="open_brace2">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="open_brace2.text"/>
+        <Property name="name" type="java.lang.String" value="open_brace2" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="open_brace2MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="exp">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="exp.text"/>
+        <Property name="name" type="java.lang.String" value="exp" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="expMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="log">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="log.text"/>
+        <Property name="name" type="java.lang.String" value="log" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="logMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="close_brace2">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="close_brace2.text"/>
+        <Property name="name" type="java.lang.String" value="close_brace2" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="close_brace2MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="multiply">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="multiply.text"/>
+        <Property name="name" type="java.lang.String" value="multiply" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="multiplyMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="open_brace1">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="open_brace1.text"/>
+        <Property name="name" type="java.lang.String" value="open_brace1" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="open_brace1MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="plus">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="plus.text"/>
+        <Property name="name" type="java.lang.String" value="plus" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="plusMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="power">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="power.text"/>
+        <Property name="name" type="java.lang.String" value="power" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="powerMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="divide">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="divide.text"/>
+        <Property name="name" type="java.lang.String" value="divide" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="divideMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="minus">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="minus.text"/>
+        <Property name="name" type="java.lang.String" value="minus" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="minusMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="close_brace1">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="close_brace1.text"/>
+        <Property name="name" type="java.lang.String" value="close_brace1" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="close_brace1MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="space">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="space.text"/>
+        <Property name="name" type="java.lang.String" value="space" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="spaceMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="zero">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="zero.text"/>
+        <Property name="name" type="java.lang.String" value="zero" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="zeroMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="one">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="one.text"/>
+        <Property name="name" type="java.lang.String" value="one" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="oneMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="four">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="four.text"/>
+        <Property name="name" type="java.lang.String" value="four" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="fourMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="seven">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="seven.text"/>
+        <Property name="name" type="java.lang.String" value="seven" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="sevenMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="const_pi">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="const_pi.text"/>
+        <Property name="name" type="java.lang.String" value="const_pi" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="const_piMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="dot">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="dot.text"/>
+        <Property name="name" type="java.lang.String" value="dot" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="dotMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="two">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="two.text"/>
+        <Property name="name" type="java.lang.String" value="two" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="twoMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="five">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="five.text"/>
+        <Property name="name" type="java.lang.String" value="five" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="fiveMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="eight">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="eight.text"/>
+        <Property name="name" type="java.lang.String" value="eight" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="eightMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="var_x">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="var_x.text"/>
+        <Property name="name" type="java.lang.String" value="var_x" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="var_xMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="const_e">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="const_e.text"/>
+        <Property name="name" type="java.lang.String" value="const_e" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="const_eMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="comma">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="comma.text"/>
+        <Property name="name" type="java.lang.String" value="comma" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="commaMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="three">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="three.text"/>
+        <Property name="name" type="java.lang.String" value="three" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="threeMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="six">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="six.text"/>
+        <Property name="name" type="java.lang.String" value="six" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="sixMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="nine">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="nine.text"/>
+        <Property name="name" type="java.lang.String" value="nine" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="nineMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ok">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="ok.text"/>
+        <Property name="name" type="java.lang.String" value="ok" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="okMouseClicked"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
